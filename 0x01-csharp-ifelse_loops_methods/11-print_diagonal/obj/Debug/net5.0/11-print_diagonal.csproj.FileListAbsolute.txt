@@ -1,0 +1,15 @@
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net5.0/11-print_diagonal.deps.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net5.0/11-print_diagonal.runtimeconfig.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net5.0/11-print_diagonal.runtimeconfig.dev.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net5.0/11-print_diagonal.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net5.0/ref/11-print_diagonal.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net5.0/11-print_diagonal.pdb
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.csprojAssemblyReference.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.AssemblyInfoInputs.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.AssemblyInfo.cs
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.csproj.CoreCompileInputs.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/ref/11-print_diagonal.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.pdb
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net5.0/11-print_diagonal.genruntimeconfig.cache

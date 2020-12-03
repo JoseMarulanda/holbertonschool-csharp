@@ -1,0 +1,15 @@
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.deps.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.runtimeconfig.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.runtimeconfig.dev.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/ref/2-print_alphabet.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net5.0/2-print_alphabet.pdb
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.csprojAssemblyReference.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.AssemblyInfoInputs.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.AssemblyInfo.cs
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.csproj.CoreCompileInputs.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/ref/2-print_alphabet.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.pdb
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net5.0/2-print_alphabet.genruntimeconfig.cache

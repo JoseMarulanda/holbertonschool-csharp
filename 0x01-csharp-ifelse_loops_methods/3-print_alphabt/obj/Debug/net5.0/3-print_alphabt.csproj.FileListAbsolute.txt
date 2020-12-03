@@ -1,0 +1,15 @@
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net5.0/3-print_alphabt.deps.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net5.0/3-print_alphabt.runtimeconfig.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net5.0/3-print_alphabt.runtimeconfig.dev.json
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net5.0/3-print_alphabt.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net5.0/ref/3-print_alphabt.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/net5.0/3-print_alphabt.pdb
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.csprojAssemblyReference.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.AssemblyInfoInputs.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.AssemblyInfo.cs
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.csproj.CoreCompileInputs.cache
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/ref/3-print_alphabt.dll
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.pdb
+/Users/jose/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/net5.0/3-print_alphabt.genruntimeconfig.cache
